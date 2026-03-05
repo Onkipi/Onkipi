@@ -85,7 +85,7 @@ I run the open-source **[Enterprise AI PM Playbook](https://github.com/Onkipi/en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaykashyab-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaykashyab)
 [![Email](https://img.shields.io/badge/Email-vijaykashyab1991@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:vijaykashyab1991@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-success?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Chennai)
+
 
 ---
 
