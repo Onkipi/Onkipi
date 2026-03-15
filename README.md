@@ -1,6 +1,6 @@
  Hi, I'm Vijay 👋
 
-I architect **enterprise-grade AI systems** and share practical frameworks that program managers, AI engineers, and transformation leaders can use right away.
+I am **enterprise-grade AI systems** and share practical frameworks that program manages , AI engineers, and transformation leaders can use right away.
 
 Most of my work is hands-on: production RAG pipelines, Knowledge Graph integrations, multi-agent orchestration, and the **program management discipline** to ship them at scale — across global, multi-billion-dollar enterprises.
 
