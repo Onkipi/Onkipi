@@ -61,7 +61,7 @@ I run the open-source **[Enterprise AI PM Playbook](https://github.com/Onkipi/en
 
 | Project | Industry | AI Stack | Key Result |
 |---|---|---|---|
-| Global Hybrid AI Platform | Retail / E-Commerce | pgvector + Neo4j + Agentic RAG | $700M+ annual value |
+| Global Hybrid AI Platform | Aviation Sector | pgvector + Neo4j + Agentic RAG | $700M+ annual value |
 | CRM Intelligence — L2O | Telecom | Hybrid RAG + Streamlit Copilot | 46% manual effort reduction |
 | Fraud Detection AI | Financial Services | Knowledge Graph + Vector DB | 27% fraud loss reduction |
 | HR Skills Graph | Workforce Planning | Neo4j + Predictive ML | 81% attrition prediction accuracy |
