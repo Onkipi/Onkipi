@@ -1,4 +1,4 @@
- Hi, I'm Vijay 👋
+ Hi, I'm Vijay 
 
 I **enterprise-grade AI systems** and share practical frameworks that program manages , AI engineers, and transformation leaders can use right away.
 
@@ -10,29 +10,29 @@ I run the open-source **[Enterprise AI PM Playbook](https://github.com/Onkipi/en
 
 ## What I Work On
 
-- 🏗️ **Hybrid AI Architecture** — Vector DB (pgvector) + Knowledge Graph (Neo4j) + Agentic RAG in production
-- 🤖 **AI Agents & Multi-Agent Systems** — LangChain agents, AutoGen teams, MCP-based tool integration, voice agents
-- 📚 **RAG Pipelines** — Simple chains → Advanced RAG → Hybrid Search → Agentic RAG → Graph RAG
-- 🧠 **LLM Applications** — Prompt engineering, structured output, LangChain LCEL, LangSmith observability
-- ⚙️ **AI Automation** — n8n workflows, RPA + AI integration, end-to-end pipeline orchestration
-- 📊 **AI Governance & Observability** — RAGAS evaluation, hallucination detection, model cards, enterprise compliance (GDPR, SOC2, SOX)
-- 🗺️ **AI Program Management** — PMBOK-aligned AI lifecycle frameworks, risk registers, stakeholder strategy, ROI modeling
+- **Hybrid AI Architecture** — Vector DB (pgvector) + Knowledge Graph (Neo4j) + Agentic RAG in production
+- **AI Agents & Multi-Agent Systems** — LangChain agents, AutoGen teams, MCP-based tool integration, voice agents
+- **RAG Pipelines** — Simple chains → Advanced RAG → Hybrid Search → Agentic RAG → Graph RAG
+- **LLM Applications** — Prompt engineering, structured output, LangChain LCEL, LangSmith observability
+- **AI Automation** — n8n workflows, RPA + AI integration, end-to-end pipeline orchestration
+- **AI Governance & Observability** — RAGAS evaluation, hallucination detection, model cards, enterprise compliance (GDPR, SOC2, SOX)
+- **AI Program Management** — PMBOK-aligned AI lifecycle frameworks, risk registers, stakeholder strategy, ROI modeling
 
 ---
 
 ## About Me
 
-- 🏢 **Enterprise AI & Digital Transformation Leader** — architected production-grade Hybrid AI platforms across global enterprises delivering **$700M+ projected annual value**
-- 📜 **PMI Triple Certified** — PMP · PgMP · PfMP | Six Sigma Black Belt (ASQ) | CSM · CSPO · SAFe 6
-- 🔬 Proven record of **44% hallucination reduction**, **41% retrieval precision improvement**, and **48% faster decision velocity** across enterprise AI deployments
-- 🌍 Built and governed AI programs spanning **18 cross-regional teams**, 5 business units, 150+ initiative backlogs
-- 📖 Author of *Artificial Intelligence for Program and Project Management* — a practical guide covering LLMs, RAG, LangChain, AI Agents, n8n, and PMBOK-aligned AI project execution
-- 💼 Currently open to **AI Program Manager**, **AI Architect**, and **AI Transformation Leadership** roles
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/vijaykashyab) or email: vijaykashyab1991@gmail.com
+- **Enterprise AI & Digital Transformation Leader** — architected production-grade Hybrid AI platforms across global enterprises delivering **$700M+ projected annual value**
+- **PMI Triple Certified** — PMP · PgMP · PfMP | Six Sigma Black Belt (ASQ) | CSM · CSPO · SAFe 6
+- Proven record of **44% hallucination reduction**, **41% retrieval precision improvement**, and **48% faster decision velocity** across enterprise AI deployments
+- Built and governed AI programs spanning **18 cross-regional teams**, 5 business units, 150+ initiative backlogs
+- Author of *Artificial Intelligence for Program and Project Management* — a practical guide covering LLMs, RAG, LangChain, AI Agents, n8n, and PMBOK-aligned AI project execution
+- Currently open to **AI Program Manager**, **AI Architect**, and **AI Transformation Leadership** roles
+- Connect on [LinkedIn](https://www.linkedin.com/in/vijaykashyab) or email: vijaykashyab1991@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / LLM Frameworks**
 `LangChain` `LangGraph` `LangSmith` `AutoGen` `MCP` `LlamaIndex` `OpenAI SDK` `Anthropic SDK`
@@ -57,7 +57,7 @@ I run the open-source **[Enterprise AI PM Playbook](https://github.com/Onkipi/en
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 | Project | Industry | AI Stack | Key Result |
 |---|---|---|---|
@@ -74,14 +74,14 @@ I run the open-source **[Enterprise AI PM Playbook](https://github.com/Onkipi/en
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onkipi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onkipi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaykashyab-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaykashyab)
 [![Email](https://img.shields.io/badge/Email-vijaykashyab1991@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:vijaykashyab1991@gmail.com)
